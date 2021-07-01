@@ -1,0 +1,17 @@
+#box {
+  width: 15px;
+  height: 15px;
+  background-color: transparent;
+  border: solid 2px #000;
+  margin: 12px;
+  cursor: pointer;
+}
+
+#coloredbox {
+  width: 15px;
+  height: 15px;
+  background-color: darkblue;
+  border: solid 2px #000;
+  margin: 12px;
+  cursor: pointer;
+}
